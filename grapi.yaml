@@ -1,0 +1,25 @@
+name: Test
+version: 0.1.0
+description: Test
+author: Colin Demers
+license: MIT
+homepage: https://github.com/ColinDemers/GRAPI-TEST
+repository: https://github.com/ColinDemers/GRAPI-TEST
+source: https://github.com/ColinDemers/GRAPI-TEST
+checksum: sha256:222b97531be74dde399420eb30d1dfca7ffd7c66433d93fca48b6dc7e57fb394
+dependencies: []
+optional_dependencies: []
+build:
+  system: python
+  commands:
+  - python setup.py build
+install:
+  commands:
+  - python setup.py install
+entry_points:
+  cli: Test.cli:main
+platforms:
+- linux
+- macos
+- windows
+tags: []
