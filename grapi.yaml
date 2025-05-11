@@ -5,7 +5,7 @@ author: Colin Demers
 license: MIT
 homepage: https://github.com/ColinDemers/GRAPI-TEST
 repository: https://github.com/ColinDemers/GRAPI-TEST
-source: https://typora.io/download/Typora-linux-x64.AppImage
+source: https://media.inkscape.org/dl/resources/appimage/inkscape-1.2.2-x86_64.AppImage
 checksum: sha256:222b97531be74dde399420eb30d1dfca7ffd7c66433d93fca48b6dc7e57fb394
 dependencies: []
 optional_dependencies: []
